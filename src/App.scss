@@ -1,0 +1,13 @@
+.mainWrapper {
+  min-height: 100vh;
+  min-height: 100svh;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: var(--CharcoalGry);
+
+  font-family: var(--regular);
+}

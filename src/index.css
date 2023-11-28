@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* color */
+  --DarkSlateGrey: #242742;
+  --CharcoalGry: #36384e;
+  --Grey: #9294a0;
+  --White: #ffffff;
+  /* fonts */
+  --regular: Roboto-regular;
+  --bold: Roboto-bold;
+}
+
+@font-face {
+  font-family: Roboto-bold;
+  src: url("/public/assets/fonts/Roboto-Bold.ttf");
+}
+@font-face {
+  font-family: Roboto-regular;
+  src: url("/public/assets/fonts/Roboto-Regular.ttf");
+}
